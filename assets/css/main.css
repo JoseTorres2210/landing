@@ -21,7 +21,7 @@
 :root {
   --color-default: #fafafa;
   --color-primary: #27a776;
-  --color-secondary: #161718;
+  --color-secondary: #147fb1;
 }
 
 /* Smooth scroll behavior */
@@ -35,7 +35,7 @@
 body {
   font-family: var(--font-default);
   color: var(--color-default);
-  background-color: #000;
+  background-color: #147fb1;
 }
 
 a {
@@ -1176,7 +1176,7 @@ h6 {
 .hero {
   width: 100%;
   min-height: 30vh;
-  background: #000;
+  background: #147fb1;
   background-size: cover;
   position: relative;
   padding: 140px 0 60px 0;
