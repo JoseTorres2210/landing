@@ -20,8 +20,8 @@
 /* Colors */
 :root {
   --color-default: #fafafa;
-  --color-primary: #27a776;
-  --color-secondary: #147fb1;
+  --color-primary: #16b46f;
+  --color-secondary: #0a3798;
 }
 
 /* Smooth scroll behavior */
@@ -35,7 +35,7 @@
 body {
   font-family: var(--font-default);
   color: var(--color-default);
-  background-color: #147fb1;
+  background-color: #0a3798;
 }
 
 a {
@@ -44,7 +44,7 @@ a {
 }
 
 a:hover {
-  color: #32cf93;
+  color: #fbe64c;
   text-decoration: none;
 }
 
@@ -81,7 +81,7 @@ h6 {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #5bd9a9;
+  background: #16b46f;
   margin: 4px 10px;
 }
 
@@ -916,7 +916,7 @@ h6 {
 
 .gallery-single .portfolio-description .testimonial-item .quote-icon-left,
 .gallery-single .portfolio-description .testimonial-item .quote-icon-right {
-  color: #5bd9a9;
+  color: #16b46f;
   font-size: 26px;
   line-height: 0;
 }
@@ -1176,7 +1176,7 @@ h6 {
 .hero {
   width: 100%;
   min-height: 30vh;
-  background: #147fb1;
+  background: #0a3798;
   background-size: cover;
   position: relative;
   padding: 140px 0 60px 0;
